@@ -22,3 +22,6 @@
   <img src='https://www.svgrepo.com/show/373965/pgsql.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
 </p>
 
+<a href="https://github.com/ranjithkumarr94">
+  <img src="https://komarev.com/ghpvc/?username=ranjithkumarr94&label=Views&color=blue&style=plastic" alt="ranjithkumarr94" />
+</a>
