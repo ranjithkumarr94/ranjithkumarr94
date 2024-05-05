@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20">
+### I am Ranjith!
 
-<!--
-**ranjithkumarr94/ranjithkumarr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a 23 year old Indian based software developer who loves exploring new technologies and build software that enhances user experience</p>
 
-Here are some ideas to get you started:
+### Tech Stack that i am familiar with
+<p align='center'>
+  <img src='https://www.svgrepo.com/show/452092/react.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/354048/material-ui.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/349540/typescript.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/349419/javascript.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/349402/html5.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/349330/css3.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/354119/nodejs-icon.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/452234/java.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://img.icons8.com/?size=96&id=90519&format=png' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/448221/docker.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/448233/kubernetes.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://icon.icepanel.io/Technology/svg/Argo-CD.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/452210/git.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://www.svgrepo.com/show/373965/pgsql.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
