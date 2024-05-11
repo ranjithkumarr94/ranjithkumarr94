@@ -3,7 +3,7 @@
 
 <p>I am a 23 year old software developer from India who loves exploring new technologies!</p>
 
-### Tech Stack that i am familiar with
+### Tech Stack that I'm familiar with
 <p align='center'>
   <img src='https://www.svgrepo.com/show/452092/react.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/354048/material-ui.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
