@@ -14,7 +14,6 @@
   <img src='https://www.svgrepo.com/show/354119/nodejs-icon.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/452234/java.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
-  <img src='https://img.icons8.com/?size=96&id=90519&format=png' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/448221/docker.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/448233/kubernetes.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://icon.icepanel.io/Technology/svg/Argo-CD.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
