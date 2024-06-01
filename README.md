@@ -19,6 +19,7 @@
   <img src='https://icon.icepanel.io/Technology/svg/Argo-CD.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/452210/git.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
   <img src='https://www.svgrepo.com/show/373965/pgsql.svg' height='60px'>&nbsp&nbsp&nbsp&nbsp;
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpMAFXqLsKKToNMRx049YEiF_2jzFF8DHbQ&usqp=CAU' height='60px'>&nbsp&nbsp&nbsp&nbsp;
 </p>
 
 <a href="https://github.com/ranjithkumarr94">
