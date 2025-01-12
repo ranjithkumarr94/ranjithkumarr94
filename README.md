@@ -4,5 +4,5 @@
 <p>I'm a 23 year old software developer from India who loves exploring new technologies!</p>
 
 ### Tech Stack that I'm familiar with
-[![My Skills](https://skillicons.dev/icons?i=react,ts,materialui,html,css,nodejs,express,java,spring,postgres,git,docker)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,ts,mui,html,css,nodejs,express,java,spring,pnpm,postgresql,git,githubactions,playwright)
 
